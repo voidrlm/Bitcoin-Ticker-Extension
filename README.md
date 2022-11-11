@@ -1,2 +1,2 @@
-# Simple-Chrome-Extension
-Creating a simple chrome extension
+# Simple-Web-Extension
+Creating a simple web extension
