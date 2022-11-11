@@ -1,6 +1,7 @@
 {
   "name": "Bitcoin Ticker",
   "version": "0.0.1",
+  "description": "Bitcoin ticker by voidrlm",
   "manifest_version": 2,
   "browser_action": {
     "default_popup": "popup.html",
