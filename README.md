@@ -12,3 +12,6 @@ How to install:
 
 4)Select and upload the extracted folder(Source code).
 
+View Preview
+
+https://imgur.com/a/5xcBLkZ
